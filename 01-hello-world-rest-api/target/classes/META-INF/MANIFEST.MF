@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: alsuman
+Build-Jdk: 17.0.5
+Implementation-Title: pcf-demo-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.navneet.pcf.demo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/01-hello-world-rest-api
+Created-By: Maven Integration for Eclipse
+
